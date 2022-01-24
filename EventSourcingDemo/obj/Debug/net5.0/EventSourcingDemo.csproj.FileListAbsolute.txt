@@ -1,0 +1,16 @@
+C:\Users\Ewelina\source\repos\EventSourcingDemo\EventSourcingDemo\bin\Debug\net5.0\EventSourcingDemo.exe
+C:\Users\Ewelina\source\repos\EventSourcingDemo\EventSourcingDemo\bin\Debug\net5.0\EventSourcingDemo.deps.json
+C:\Users\Ewelina\source\repos\EventSourcingDemo\EventSourcingDemo\bin\Debug\net5.0\EventSourcingDemo.runtimeconfig.json
+C:\Users\Ewelina\source\repos\EventSourcingDemo\EventSourcingDemo\bin\Debug\net5.0\EventSourcingDemo.runtimeconfig.dev.json
+C:\Users\Ewelina\source\repos\EventSourcingDemo\EventSourcingDemo\bin\Debug\net5.0\EventSourcingDemo.dll
+C:\Users\Ewelina\source\repos\EventSourcingDemo\EventSourcingDemo\bin\Debug\net5.0\ref\EventSourcingDemo.dll
+C:\Users\Ewelina\source\repos\EventSourcingDemo\EventSourcingDemo\bin\Debug\net5.0\EventSourcingDemo.pdb
+C:\Users\Ewelina\source\repos\EventSourcingDemo\EventSourcingDemo\obj\Debug\net5.0\EventSourcingDemo.csproj.AssemblyReference.cache
+C:\Users\Ewelina\source\repos\EventSourcingDemo\EventSourcingDemo\obj\Debug\net5.0\EventSourcingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ewelina\source\repos\EventSourcingDemo\EventSourcingDemo\obj\Debug\net5.0\EventSourcingDemo.AssemblyInfoInputs.cache
+C:\Users\Ewelina\source\repos\EventSourcingDemo\EventSourcingDemo\obj\Debug\net5.0\EventSourcingDemo.AssemblyInfo.cs
+C:\Users\Ewelina\source\repos\EventSourcingDemo\EventSourcingDemo\obj\Debug\net5.0\EventSourcingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ewelina\source\repos\EventSourcingDemo\EventSourcingDemo\obj\Debug\net5.0\EventSourcingDemo.dll
+C:\Users\Ewelina\source\repos\EventSourcingDemo\EventSourcingDemo\obj\Debug\net5.0\ref\EventSourcingDemo.dll
+C:\Users\Ewelina\source\repos\EventSourcingDemo\EventSourcingDemo\obj\Debug\net5.0\EventSourcingDemo.pdb
+C:\Users\Ewelina\source\repos\EventSourcingDemo\EventSourcingDemo\obj\Debug\net5.0\EventSourcingDemo.genruntimeconfig.cache
